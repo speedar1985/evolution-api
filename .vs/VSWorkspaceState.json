@@ -1,16 +1,6 @@
 {
   "ExpandedNodes": [
-    "",
-    "\\Docker\\kafka",
-    "\\Docker\\minio",
-    "\\Docker\\mysql",
-    "\\Docker\\postgres",
-    "\\Docker\\rabbitmq",
-    "\\Docker\\redis",
-    "\\Docker\\scripts",
-    "\\Docker\\swarm",
-    "\\evolution-manager-v2\\src"
+    ""
   ],
-  "SelectedNode": "\\docker-compose.yaml",
   "PreviewInSolutionExplorer": false
 }
